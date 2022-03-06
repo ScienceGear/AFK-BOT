@@ -1,0 +1,9 @@
+{
+	"ip":"sciencegear.aternos.me",
+	"port": 13938,
+	"name": "AFK_GEAR",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (SUBSCRIBE) (SUBSCRIBE)",
+	"login-cmd":"/login (SUBSCRIBE)"
+}
