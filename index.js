@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Subscribe To Easy Gamer : https://www.youtube.com/channel/UCk575VDlrCsv1Gy2XZQ1bSA")
+	bot.chat("Subscribe To ScienceGear : https://www.youtube.com/channel/ScienceGearYT")
 	first = false;
 	}
 	else{
-		bot.chat("Subscribe To MannuG : https://www.youtube.com/channel/UCSZHRnBue50ImBKeR6k6eDg")
+		bot.chat("Subscribe To ScienceGear : https://www.youtube.com/channel/ScienceGearYT")
 		first = true;
 	}
   }, 3600000 * i); 
