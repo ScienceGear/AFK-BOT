@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Subscribe To ScienceGear : https://www.youtube.com/channel/ScienceGearYT")
+	bot.chat("Subscribe To ScienceGear : https://www.youtube.com/c/ScienceGearYT")
 	first = false;
 	}
 	else{
-		bot.chat("Subscribe To ScienceGear : https://www.youtube.com/channel/ScienceGearYT")
+		bot.chat("Subscribe To ScienceGear : https://www.youtube.com/c/ScienceGearYT")
 		first = true;
 	}
   }, 3600000 * i); 
